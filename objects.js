@@ -1,7 +1,8 @@
 var playlist = {
+  /*
   Usher: 'Yeah!',
   ['Bruno Mars']: 'Treasure',
-  ['Michael Jackson']: 'Billy Jean'
+  ['Michael Jackson']: 'Billy Jean'*/
 }
 
 function updatePlaylist (playlist, artist, title){
